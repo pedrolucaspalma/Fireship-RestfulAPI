@@ -1,0 +1,23 @@
+{
+  "name": "fireshiprestfulapi",
+  "version": "1.0.0",
+  "description": "RESTful API written by me following the instructions in Fireship's video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrolucaspalma/Fireship-RestfulAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrolucaspalma/Fireship-RestfulAPI/issues"
+  },
+  "homepage": "https://github.com/pedrolucaspalma/Fireship-RestfulAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
